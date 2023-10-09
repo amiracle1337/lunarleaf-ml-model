@@ -6,7 +6,7 @@ LunarLeaf employs Convolutional Neural Networks (CNNs) to discern the health sta
 
 ## Model Architecture and Design Process
 
-1. **Data Pre-processing**: Ensuring the integrity and quality of the dataset was paramount. Rigorous pre-processing steps were implemented to guarantee clean and robust data for training.
+1. **Data Pre-processing**: Ensuring the quality of the dataset was trivial to making the model work. Pre-processing steps were implemented to guarantee clean and robust data for training.
 
 2. **Model Exploration**: I delved deep into various model architectures to identify the best fit:
    - Leveraged the renowned **VGG16** architecture, which excelled in training and validation but demonstrated overfitting on test data.

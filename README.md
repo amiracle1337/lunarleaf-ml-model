@@ -19,4 +19,6 @@ LunarLeaf employs Convolutional Neural Networks (CNNs) to discern the health sta
 ## Additional Notes
 
 - This venture into machine learning and Python coding marks my debut.
-- The inception of **LunarLeaf** was born from a practical need: in collaboration with physicist Twana Cheragwandi, we constructed an indoor farm to cultivate vegetables. To streamline our workflow, we envisioned an automated system where a robot would capture daily images of the plants, which **LunarLeaf** would then analyze, ensuring the plants' optimal health.
+- The inception of **LunarLeaf** was born from a practical need: in collaboration with physicist Twana Cheragwandi, we constructed an indoor aeroponic farm to cultivate vegetables. To streamline our workflow, we envisioned an automated system where a robot would capture daily images of the plants, which **LunarLeaf** would then analyze, ensuring the plants' optimal health.
+
+![Screenshot 2023-10-09 at 23 19 28](https://github.com/amiracle1337/lunarleaf/assets/122039464/769e955e-e046-437c-b6a8-a71edae66a84)

@@ -4,6 +4,11 @@ LunarLeaf employs Convolutional Neural Networks (CNNs) to discern the health sta
 
 [![LG UltraFine](https://github.com/amiracle1337/plant-health-detection/assets/122039464/53158b1d-eea1-4601-9651-c26e90991e32)](https://www.youtube.com/watch?v=Y7CumIW4SRY&feature=youtu.be)
 
+[Test YouTube Link](https://www.youtube.com/watch?v=Y7CumIW4SRY&feature=youtu.be)
+
+
+
+
 ## Model Architecture and Design Process
 
 1. **Data Pre-processing**: Ensuring the quality of the dataset was trivial to making the model work. Pre-processing steps were implemented to guarantee clean and robust data for training.

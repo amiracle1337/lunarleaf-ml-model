@@ -2,7 +2,8 @@
 
 LunarLeaf employs Convolutional Neural Networks (CNNs) to discern the health status of tomato plants using leaf images.
 
-![lunar](https://github.com/amiracle1337/lunarleaf/assets/122039464/9e123fa9-82ae-45c3-8776-0fbfef79cab6)
+![LG UltraFine](https://github.com/amiracle1337/plant-health-detection/assets/122039464/53158b1d-eea1-4601-9651-c26e90991e32)
+
 
 ## Model Architecture and Design Process
 
